@@ -43,5 +43,5 @@ class m190811_233430_create_table_place extends Migration
     {
         $this->dropTable('place');
     }
-    
+
 }

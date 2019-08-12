@@ -290,9 +290,7 @@ class m190812_002455_create_table_country extends Migration
 
     public function down()
     {
-        echo "m190812_002455_create_table_country cannot be reverted.\n";
 
-        return false;
     }
     */
 }
